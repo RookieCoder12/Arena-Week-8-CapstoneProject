@@ -1,4 +1,4 @@
-# DevArena-Week-7
+# DevArena-Week-8
 
 ## Overview
 This project analyzes transactional retail data to uncover insights into sales performance across regions and time periods. The workflow includes data cleaning, exploratory data analysis (EDA), and statistical testing.
